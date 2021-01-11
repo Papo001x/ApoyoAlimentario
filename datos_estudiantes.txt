@@ -1,0 +1,6 @@
+brandon henriquez,20152020056,Ingenieria,Ingenieria de Sistemas,10
+Natalia alonso,20161020030,Ingenieria,Ingenieria de Sistemas,9
+pepito perez ,20152478963,Medio Ambiente y Recursos Naturales,Ingenieria Topografica,10
+Sebastian pinto,20142358752,Ingenieria,Ingenieria Industrial,13
+Achury Yamile,20152020056,Ingenieria,Ingenieria de Sistemas,10
+David castro,20152020018,Ingenieria,Ingenieria de Sistemas,10

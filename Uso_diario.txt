@@ -1,0 +1,5 @@
+Natalia alonso,Ingenieria,2021-01-09 15:54:03.010144
+pepito perez ,Medio Ambiente y Recursos Naturales,2021-01-10 13:26:19.079764
+Sebastian pinto,Ingenieria,2021-01-10 14:51:53.733300
+Achury Yamile,Ingenieria,2021-01-10 19:59:59.907686
+David castro,Ingenieria,2021-01-10 20:08:20.761896
